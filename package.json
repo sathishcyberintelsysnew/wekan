@@ -31,7 +31,7 @@
     "bson": "^4.5.2",
     "bunyan": "^1.8.15",
     "core-js": "^3.18.2",
-    "dompurify": "^2.4.1",
+    "dompurify": "^2.4.5",
     "es6-promise": "^4.2.4",
     "escape-string-regexp": "^5.0.0",
     "exceljs": "^4.2.1",

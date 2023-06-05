@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.15.5",
-    "@babel/runtime": "^7.15.4",
+    "@babel/runtime": "^7.21.5",
     "@mapbox/node-pre-gyp": "^1.0.8",
     "@wekanteam/minio": "^7.0.34",
     "ajv": "^6.12.6",
